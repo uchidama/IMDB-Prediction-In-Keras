@@ -9,7 +9,7 @@ This software visualizes IMDB strings label prediction results by a deeplearning
 1. clone this repository using `git`:
 
 ```sh
-git clone https://github.com/uchidama/Fashion-MNIST-Prediction-In-Keras.git
+git clone https://github.com/uchidama/IMDB-Prediction-In-Keras.git
 ```
 
 2. `cd` to the folder and run jupyter notebook:
