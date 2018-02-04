@@ -1,0 +1,4 @@
+Pillow
+jupyter
+matplotlib
+h5py
